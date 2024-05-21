@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "viator",
+    "viator_box"
+]
+resolver="2"
